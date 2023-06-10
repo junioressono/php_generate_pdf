@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/test_php_html2pdf",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "junioressono",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "spipu/html2pdf": "^v5.2.7",
+    "knplabs/knp-snappy": "^1.1"
+  }
+}
