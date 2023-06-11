@@ -11,6 +11,6 @@
   ],
   "require": {
     "spipu/html2pdf": "^v5.2.7",
-    "knplabs/knp-snappy": "^1.1"
+    "knplabs/knp-snappy": "^v1.4.2"
   }
 }

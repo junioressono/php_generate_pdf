@@ -12,7 +12,7 @@ $data = array(
 );
 
 // Charger le template HTML
-$template = file_get_contents('default.html');
+$template = file_get_contents('template1.html');
 
 // Remplacer les balises variables par les données réelles de la facture
 foreach ($data as $key => $value) {
